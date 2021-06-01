@@ -19,9 +19,10 @@ Our idea is explained in our Storyboard below:
 ![Image](https://github.com/gxc-int-innovation-challenge21/gxc-team-22/blob/57b8c0b6e2e1a4c2bb3611305d12ff36f2c20fab/GXC_Team%2022_Assignement_Storyboard_V3.jpeg)
 
 
-## Episode 22 - THE App to get active!    
 
-![Image](https://github.com/gxc-int-innovation-challenge21/gxc-team-22/blob/e10ef01af7ff50dd3b02c4836e6f193dbdd16546/60sec%20Pitch_Team%2022.pdf)
+## Episode 22 - The App to get active!    
+
+![Image](https://github.com/gxc-int-innovation-challenge21/gxc-team-22/blob/30dc6ab9cddc73408bc365d9bb44d31b13f86771/60sec%20Pitch_Team%2022.jpg)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
