@@ -1,4 +1,4 @@
-![GitHub Logo](https://github.com/gxc-int-innovation-challenge21/gxc-team-22/blob/d2e918c0aa8082e751387a61b2cbca71a0f26688/Episode22_Team%20Logo.jpeg)
+![GitHub Logo](https://raw.githubusercontent.com/gxc-int-innovation-challenge21/gxc-team-22/d2e918c0aa8082e751387a61b2cbca71a0f26688/Episode22_Team%20Logo.jpeg?token=AFB65HKCIJEAHFWPKNW6C4DAX7EDW)
 
 # About Episode 22 - Return Of The Sports! 
 
@@ -16,7 +16,7 @@ The Challenge was: "How can the the European Championships Munich 2022 motivate 
 
 Our idea is explained in our Storyboard below:
 
-![Image](https://github.com/gxc-int-innovation-challenge21/gxc-team-22/blob/57b8c0b6e2e1a4c2bb3611305d12ff36f2c20fab/GXC_Team%2022_Assignement_Storyboard_V3.jpeg)
+![Image](https://raw.githubusercontent.com/gxc-int-innovation-challenge21/gxc-team-22/57b8c0b6e2e1a4c2bb3611305d12ff36f2c20fab/GXC_Team%2022_Assignement_Storyboard_V3.jpeg?token=AFB65HPO77IU4MIODNZBMY3AX7D72)
 
 
 
