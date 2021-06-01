@@ -4,14 +4,24 @@
 
 Welcome to the repository of Episode 22! We are providing a social platform for young people to do sports together. It’s a combined and incentivized using a competitive aspect by providing challenges to conquer. Local sports clubs are included in the process as sponsors and expand their member base.
 
-**Long Story Short: We want to help the youth (17-23) to live a more active and healthier life!**  
-
-The Challenge was: How can the the European Championships Munich 2022 motivate their visitors and spectactors to do more sports and inspire them to lead more active lifestyles, creating a positive impact for local sport clubs and society as a whole?
+**Long story short: We want to help the youth (17-23) to live a more active and healthier life!**  
 
 
+## The Challenge
+
+The Challenge was: "How can the the European Championships Munich 2022 motivate their visitors and spectactors to do more sports and inspire them to lead more active lifestyles, creating a positive impact for local sport clubs and society as a whole?"
 
 
+## Our Storyboard
 
+Our idea is explained in our Storyboard below:
+
+![Image](https://github.com/gxc-int-innovation-challenge21/gxc-team-22/blob/57b8c0b6e2e1a4c2bb3611305d12ff36f2c20fab/GXC_Team%2022_Assignement_Storyboard_V3.jpeg)
+
+
+## Episode 22 - THE App to get active!    
+
+![Image](https://github.com/gxc-int-innovation-challenge21/gxc-team-22/blob/e10ef01af7ff50dd3b02c4836e6f193dbdd16546/60sec%20Pitch_Team%2022.pdf)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -36,17 +46,11 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gxc-int-innovation-challenge21/gxc-team-22/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 GitHub Page: 
 
