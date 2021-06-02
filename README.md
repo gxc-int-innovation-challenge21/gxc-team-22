@@ -9,7 +9,13 @@ Welcome to the repository of Episode 22! We are providing a social platform for 
 
 ## The Challenge
 
-The Challenge was: "How can the the European Championships Munich 2022 motivate their visitors and spectactors to do more sports and inspire them to lead more active lifestyles, creating a positive impact for local sport clubs and society as a whole?"
+The Challenge was: "How can the [European Championships Munich 2022](https://www.europeanchampionships.com/2022munich) motivate their visitors and spectactors to do more sports and inspire them to lead more active lifestyles, creating a positive impact for local sport clubs and society as a whole?"
+
+## The GXC Milestones Timeline
+
+We tried to ilustrate all milestones of the 2021 GXC Challenge in this timeline:
+
+![Image](https://raw.githubusercontent.com/gxc-int-innovation-challenge21/gxc-team-22/main/GXC_Milestones.jpg?token=AKP3XZIRCI6GNVGUMGMPUFDAYDI6A)
 
 
 ## Our Storyboard
