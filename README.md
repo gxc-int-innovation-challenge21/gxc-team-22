@@ -22,7 +22,7 @@ Our idea is explained in our Storyboard below:
 
 ## Episode 22 - The App to get active!    
 
-![Image](raw.githubusercontent./60sec_Pitch_Team_22.jpg)
+![Image](https://raw.githubusercontent.com/gxc-int-innovation-challenge21/gxc-team-22/main/60sec%20Pitch_Team%2022.jpeg?token=AKP3XZNGFDYUAQXABT6EPSDAYCHIC)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
