@@ -14,7 +14,7 @@ How can the [European Championships Munich 2022](https://www.europeanchampionshi
 
 ## The GXC Milestones Timeline
 
-We tried to ilustrate all milestones of the 2021 GXC Challenge in this timeline:
+We tried to ilustrate all milestones of the 2021 [GXC Challenge](https://www.hm.edu/gxc/) in this timeline:
 
 ![Image](https://raw.githubusercontent.com/gxc-int-innovation-challenge21/gxc-team-22/main/GXC_Milestones.jpg?token=AKP3XZIRCI6GNVGUMGMPUFDAYDI6A)
 
