@@ -9,7 +9,8 @@ Welcome to the repository of Episode 22! We are providing a social platform for 
 
 ## The Challenge
 
-The Challenge was: "How can the [European Championships Munich 2022](https://www.europeanchampionships.com/2022munich) motivate their visitors and spectactors to do more sports and inspire them to lead more active lifestyles, creating a positive impact for local sport clubs and society as a whole?"
+How can the [European Championships Munich 2022](https://www.europeanchampionships.com/2022munich) motivate their visitors and spectactors to do more sports and inspire them to lead more active lifestyles, creating a positive impact for local sport clubs and society as a whole?
+
 
 ## The GXC Milestones Timeline
 
@@ -25,17 +26,14 @@ Our idea is explained in our Storyboard below:
 ![Image](https://raw.githubusercontent.com/gxc-int-innovation-challenge21/gxc-team-22/57b8c0b6e2e1a4c2bb3611305d12ff36f2c20fab/GXC_Team%2022_Assignement_Storyboard_V3.jpeg?token=AFB65HPO77IU4MIODNZBMY3AX7D72)
 
 
-
 ## Episode 22 - The App to get active!    
 
 ![Image](https://raw.githubusercontent.com/gxc-int-innovation-challenge21/gxc-team-22/main/60sec%20Pitch_Team%2022.jpeg?token=AKP3XZNGFDYUAQXABT6EPSDAYCHIC)
 
 
-
 You can use the QR-Code on the left or this **[link](https://exclusive-slip-1184.glideapp.io)** to test our protoype. 
 
 **[Our GitHub Page](https://github.com/gxc-int-innovation-challenge21/gxc-team-22)**
-
 
 **[Our Wiki](https://github.com/gxc-int-innovation-challenge21/gxc-team-22/wiki)**
 
