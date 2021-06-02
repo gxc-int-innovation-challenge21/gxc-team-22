@@ -25,34 +25,11 @@ Our idea is explained in our Storyboard below:
 ![Image](https://raw.githubusercontent.com/gxc-int-innovation-challenge21/gxc-team-22/main/60sec%20Pitch_Team%2022.jpeg?token=AKP3XZNGFDYUAQXABT6EPSDAYCHIC)
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+You can use the QR-Code on the left or this **[link](https://exclusive-slip-1184.glideapp.io)** to test our protoype. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**[Our GitHub Page](https://github.com/gxc-int-innovation-challenge21/gxc-team-22)**
 
 
+**[Our Wiki](https://github.com/gxc-int-innovation-challenge21/gxc-team-22/wiki)**
 
-
-
-
-GitHub Page: 
-
-Wiki: 
